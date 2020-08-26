@@ -1,7 +1,7 @@
 # Thanks for donate me
 If you like my craft, you can donate with:
 ## 1. WeChat
-![AC](WeChat.jpeg)
+![AC](test.png)
 
 ## 2. BTC
 Address: 36Y1yhHvG1EDBNysJzjym7nzTZ3TQJ7cSr
